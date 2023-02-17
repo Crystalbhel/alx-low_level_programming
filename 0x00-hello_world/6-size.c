@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * main - a program that prints the sizes of various computer types
  *
