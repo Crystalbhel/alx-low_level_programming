@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
-
 /**
  * main - entry point
  * Description: prints numbers
  * Return: always 0 (success)
  */
-
 int main(void)
 {
 	int i;
@@ -15,11 +13,11 @@ int main(void)
 	{
 		putchar(i);
 
-		if(i != '9')
+		if (i != '9')
 		{
 			putchar(i);
 
-			if(i != '9')
+			if (i != '9')
 			{
 				putchar(',');
 				putchar(' ');
