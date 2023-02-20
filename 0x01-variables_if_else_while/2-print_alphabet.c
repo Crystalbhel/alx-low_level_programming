@@ -3,7 +3,7 @@
 /**
  * main - main function
  *
- * Return: always 0
+ * Return: always o
  */
 
 int main(void)
