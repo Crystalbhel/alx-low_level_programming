@@ -3,7 +3,7 @@
 /**
  * main - finds and prints the sum of the even-valued terms
  * followed by a new line
- * Retuen: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
