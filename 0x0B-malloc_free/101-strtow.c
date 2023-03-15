@@ -6,11 +6,12 @@
  *  * @s: string to evaluate
  *   *
  *    * Return: number of words
- *     */
+ */
 
 int count_word(char *s)
 {
 	int flag, c, w;
+
 	flag = 0;
 	w = 0;
 
@@ -20,7 +21,8 @@ int count_word(char *s)
 			flag = 0;
 		else if (flag == 0)
 		{
-			flag = 1; w++;
+			flag = 1;
+			w++;
 		}
 	}
 
