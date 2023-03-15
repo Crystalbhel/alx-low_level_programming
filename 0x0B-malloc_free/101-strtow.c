@@ -84,4 +84,4 @@ int count_word(char *s)
 
 		return (matrix);
 	}
-}	
+}
