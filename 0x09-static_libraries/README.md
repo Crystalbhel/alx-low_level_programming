@@ -1,1 +1,1 @@
-we are currently learning about the Static Libraries.
+Another project on C called: 0x09.C - Static Libraries
